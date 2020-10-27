@@ -1,7 +1,7 @@
 package factorypattern.simple;
 
 public class RouMoStore {
-	
+	//肉夹馍工厂
 	private SimpleRouMoFactory factory;
 	
 	public RouMoStore(SimpleRouMoFactory factory) {
@@ -9,7 +9,7 @@ public class RouMoStore {
 	}
 	
 	public RouMo sellRouMo(String type) {
-		//新增和修改只需要修改工厂类，和卖馍解耦
+		//新增和修改只需要修改工厂类，和RouMoStore 馍解耦
 		RouMo rouMo = factory.createRouMo(type);
 		
 		rouMo.prepare();
