@@ -1,5 +1,7 @@
 package factorypattern.simple;
-
+/**
+ * 抽象肉夹馍对象
+ */
 public abstract class RouMo {
 	//protected 修饰，在继承类中可见
 	protected String name;
