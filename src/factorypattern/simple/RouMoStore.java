@@ -4,7 +4,9 @@ package factorypattern.simple;
  */
 public class RouMoStore {
 	/**
-	 * 生肉夹馍工厂
+	 * 1，生肉夹馍工厂，此为一个指定类，只有一种固定创建方法。
+	 * 2，可以是一个借口对象，具体实例创建不同种类肉夹馍
+	 * 3，也可以是抽象方法，此类是抽象类，让具继承类来具体实现
 	 */
 	private SimpleRouMoFactory simpleRouMoFactory;
 	

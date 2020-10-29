@@ -1,11 +1,13 @@
 package factorypattern.factorymethod;
-
+/**
+ * 抽象肉夹馍摊，有具体的摊来生产其他种类的肉夹馍
+ */
 public abstract class RouMoStore {
-	//相当于工厂,可以扩展多个，自己有具体实现
+	//抽象方法，让子类有具体实现
 	public abstract RouMo createRouMo(String type);
 	
 	/**
-	 * 更具类型卖不同的馍
+	 * 卖肉夹馍馍
 	 * @param type
 	 * @return
 	 */

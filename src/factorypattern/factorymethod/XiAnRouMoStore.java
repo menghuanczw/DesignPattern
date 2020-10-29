@@ -1,8 +1,9 @@
 package factorypattern.factorymethod;
 /**
- * 相当于工厂
- * @author czw
- *
+ * 具体一个肉夹馍摊子类
+ * 可以有多个摊的实现类，来卖不同类别的馍
+ * 继承抽象类 @RouMoStore ， 在子类中  实现抽象方法 ，
+ * 从而把具体类型的创建放在子类中	--工厂模式
  */
 public class XiAnRouMoStore extends RouMoStore{
 	private static final String COW = "cow";
