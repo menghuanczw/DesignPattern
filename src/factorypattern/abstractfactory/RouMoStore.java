@@ -1,13 +1,15 @@
 package factorypattern.abstractfactory;
 
 public abstract class RouMoStore {
-	//相当于工厂,可以扩展多个，自己有具体实现
+	/**
+	 * 创建肉夹馍的抽象方法，子类去实现
+	 */
 	public abstract RouMo createRouMo(String type);
 	
 	
 	/**
-	 * 更具类型卖不同的馍
-	 * @param type
+	 * 卖肉夹馍方法
+	 * @param type 类型参数
 	 * @return
 	 */
 	public RouMo sellRouMo(String type) {

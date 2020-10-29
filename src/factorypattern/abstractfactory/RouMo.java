@@ -9,6 +9,7 @@ public abstract class RouMo {
 		Flour folur = rouMoFoodFactory.createFlour();
 		System.out.println("和面-做陷-准备完成");
 	}
+	
 	public void pack() {
 		System.out.println("肉夹馍-包装袋-包装");
 	}
