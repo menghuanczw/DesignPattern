@@ -1,6 +1,6 @@
 package singletonpattern;
 /**
- * 懒汉式
+ * 懒汉式 --使用时先去判断创建没，没创建就创建，创建了就直接用。
  *
  */
 public class SingletonThree {
