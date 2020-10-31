@@ -4,7 +4,7 @@ package singletonpattern;
  */
 public class SingletonTwo {
 	private static SingletonTwo instance = null;
-	
+	//在第一次使用时执行
 	static {
 		instance = new SingletonTwo();
 	}
