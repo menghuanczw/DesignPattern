@@ -1,4 +1,5 @@
-package factorypattern.simple;
+package factorypattern.simple.mo;
+
 /**
  * 猪肉馍对象
  * @author czw

@@ -1,4 +1,7 @@
 package factorypattern.simple;
+
+import factorypattern.simple.mo.RouMo;
+
 /**
  * 肉夹馍摊
  */

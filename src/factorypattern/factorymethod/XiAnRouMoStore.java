@@ -1,4 +1,10 @@
 package factorypattern.factorymethod;
+
+import factorypattern.factorymethod.mo.CowRouMo;
+import factorypattern.factorymethod.mo.PigRouMo;
+import factorypattern.factorymethod.mo.RouMo;
+import factorypattern.factorymethod.mo.SheepRouMo;
+
 /**
  * 具体一个肉夹馍摊子类
  * 可以有多个摊的实现类，来卖不同类别的馍

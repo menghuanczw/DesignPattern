@@ -1,4 +1,5 @@
-package factorypattern.simple;
+package factorypattern.simple.mo;
+
 /**
  * 牛肉馍对象
  */

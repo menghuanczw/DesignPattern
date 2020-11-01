@@ -1,4 +1,4 @@
-package factorypattern.factorymethod;
+package factorypattern.factorymethod.mo;
 /**
  * 牛肉馍对象
  */
