@@ -1,7 +1,9 @@
 package templatepattern.gouzi;
 
 import java.util.Date;
-
+/**
+ * 模板类
+ */
 public abstract class Worker {
 	protected String name;
 
