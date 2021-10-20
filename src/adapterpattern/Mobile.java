@@ -1,4 +1,5 @@
 package adapterpattern;
+
 /**
  *  客户端
  *  需要  @V5Power 对象
