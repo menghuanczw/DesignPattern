@@ -4,3 +4,4 @@
 ２，抽象工厂模式 - abstract factory pattern
 3，单例模式-singleton pattern
 4，模板模式 - template pattern
+其他类型
