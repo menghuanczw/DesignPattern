@@ -29,4 +29,13 @@ public class XiAnRouMoStore extends RouMoStore{
 		return rouMo;
 	}
 
+	public static void main(String[] args) {
+		/**
+		 * 创建肉夹馍摊，然后通过 类型 来生产具体肉夹馍
+		 */
+		XiAnRouMoStore xiAnRouMoStore = new XiAnRouMoStore();
+		RouMo rouMo = xiAnRouMoStore.sellRouMo("sheep");
+		System.out.println(rouMo);
+	}
+
 }
