@@ -5,3 +5,4 @@
 3,单例模式-singleton pattern
 4,模板模式 - template pattern
 5,成功git download
+6，添加线程基础
