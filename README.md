@@ -9,8 +9,8 @@
 3,单例模式-singleton pattern
 4,建造者模式 - builder pattern
 5,原型模式 - prototype pattern
-6,模板模式 - template pattern 
-7，
+6,适配器模式 - adapter pattern
+7，装饰器模式 - decorator pattern
 8，
 9，
 10，
@@ -18,4 +18,4 @@
 12，
 13，
 14，
-15
+15,模板模式 - template pattern 
