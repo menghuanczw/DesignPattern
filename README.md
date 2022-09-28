@@ -11,11 +11,19 @@
 5,原型模式 - prototype pattern
 6,适配器模式 - adapter pattern
 7，装饰器模式 - decorator pattern
-8，
-9，
-10，
-11，
-12，
-13，
-14，
-15,模板模式 - template pattern 
+8，代理模式 - Proxy Pattern
+9，外观模式 - Facade Pattern
+10，桥接模式 - Bridge Pattern
+11，组合模式 - Composite Pattern
+12，享元模式 - Flyweight Pattern
+13，策略模式 - Strategy Pattern
+14，模板方法模式 - template pattern
+15, 观察者模式 - Observer Pattern
+16，迭代模式 - Iterator Pattern
+17，责任链模式 - Chain of Responsibility Pattern
+18，命令模式 - Command Pattern
+19，备忘录模式 - Memento Pattern
+20，状态模式 - State Pattern
+21，访问者模式 - Visitor Pattern
+22，中介模式 - Mediator Pattern
+23，解释器模式 - Interpreter Pattern
